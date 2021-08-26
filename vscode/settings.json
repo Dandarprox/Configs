@@ -1,0 +1,241 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "editor.fontFamily": "'Jetbrains Mono', 'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontSize": 17,
+    "editor.renderIndentGuides": false,
+    "editor.letterSpacing": -0.2,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.menuBarVisibility": "toggle",
+    "editor.fontLigatures": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "[vue]": {
+        "editor.codeActionsOnSave": {
+            "source.eslint.fixAll": true
+        },
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+        "editor.formatOnSave": true
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features",
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true
+        }
+    },
+    "[rust]": {
+        "editor.formatOnSave": true
+    },
+    "editor.semanticHighlighting.enabled": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "editor.suggestSelection": "first",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "eslint.validate": [
+        "javascript",
+        "typescript",
+        "typescriptreact"
+    ],
+    "[css]": {
+        "editor.defaultFormatter": "MikeBovenlander.formate"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "MikeBovenlander.formate"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "aws.profile": "profile:Yadas",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.minimap.enabled": false,
+    "oneDarkPro.italic": false,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.tokenColorCustomizations": {
+        "[Gruvbox Mix Dark]": {
+            "keywords": "#D3869B",
+        },
+        "textMateRules": [
+            {
+                "scope": [
+                    "comment",
+                    "comment.block",
+                    "comment.block.documentation",
+                    "comment.line",
+                    "constant",
+                    "constant.character",
+                    "constant.character.escape",
+                    "constant.numeric",
+                    "constant.numeric.integer",
+                    "constant.numeric.float",
+                    "constant.numeric.hex",
+                    "constant.numeric.octal",
+                    "constant.other",
+                    "constant.regexp",
+                    "constant.rgb-value",
+                    "emphasis",
+                    "entity",
+                    "entity.name",
+                    "entity.name.class",
+                    "entity.name.function",
+                    "entity.name.method",
+                    "entity.name.section",
+                    "entity.name.selector",
+                    "entity.name.tag",
+                    "entity.name.type",
+                    "entity.other",
+                    "entity.other.attribute-name",
+                    "entity.other.inherited-class",
+                    "invalid",
+                    "invalid.deprecated",
+                    "invalid.illegal",
+                    "keyword",
+                    "keyword.control",
+                    "keyword.operator",
+                    "keyword.operator.new",
+                    "keyword.operator.assignment",
+                    "keyword.operator.arithmetic",
+                    "keyword.operator.logical",
+                    "keyword.other",
+                    "markup",
+                    "markup.bold",
+                    "markup.changed",
+                    "markup.deleted",
+                    "markup.heading",
+                    "markup.inline.raw",
+                    "markup.inserted",
+                    "markup.italic",
+                    "markup.list",
+                    "markup.list.numbered",
+                    "markup.list.unnumbered",
+                    "markup.other",
+                    "markup.quote",
+                    "markup.raw",
+                    "markup.underline",
+                    "markup.underline.link",
+                    "meta",
+                    "meta.block",
+                    "meta.cast",
+                    "meta.class",
+                    "meta.function",
+                    "meta.function-call",
+                    "meta.preprocessor",
+                    "meta.return-type",
+                    "meta.selector",
+                    "meta.tag",
+                    "meta.type.annotation",
+                    "meta.type",
+                    "punctuation.definition.string.begin",
+                    "punctuation.definition.string.end",
+                    "punctuation.separator",
+                    "punctuation.separator.continuation",
+                    "punctuation.terminator",
+                    "storage",
+                    "storage.modifier",
+                    "storage.type",
+                    "string",
+                    "string.interpolated",
+                    "string.other",
+                    "string.quoted",
+                    "string.quoted.double",
+                    "string.quoted.other",
+                    "string.quoted.single",
+                    "string.quoted.triple",
+                    "string.regexp",
+                    "string.unquoted",
+                    "strong",
+                    "support",
+                    "support.class",
+                    "support.constant",
+                    "support.function",
+                    "support.other",
+                    "support.type",
+                    "support.type.property-name",
+                    "support.variable",
+                    "variable",
+                    "variable.language",
+                    "variable.name",
+                    "variable.other",
+                    "variable.other.readwrite",
+                    "variable.parameter"
+                ],
+                "settings": {
+                    "fontStyle": ""
+                }
+            }
+        ]
+    },
+    "editor.lineNumbers": "relative",
+    "workbench.activityBar.visible": false,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.tabSize": 8,
+    "editor.cursorStyle": "line",
+    "editor.insertSpaces": false,
+    "editor.wordSeparators": "j/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+    "editor.wordWrap": "off",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.colorTheme": "Omni",
+    "editor.cursorSurroundingLines": 5,
+    // VIM Configs
+    "vim.visualModeKeyBindings": [
+        {
+            "before": ["<leader>", "c"],
+            "commands": ["editor.action.commentLine"],
+            "when": "editorTextFocus && !editorReadonly"
+        },
+        {
+            "before": ["<leader>", "a"],
+            "after": ["\"", "a", "y"]
+        },
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["n"],
+            "after": ["n", "z", "z", "z", "v"]
+        },
+        {
+            "before": ["N"],
+            "after": ["N", "z", "z", "z", "v"]
+        },
+        {
+            "before": ["c", "n"],
+            "after": ["*", "`", "`", "c", "g", "n"],
+        },
+        {
+            "before": ["c", "N"],
+            "after": ["*", "`", "`", "c", "g", "N"],
+        },
+        {
+            "before": ["U"],
+            "after": [""]
+        },
+        {
+            "before": ["Y"],
+            "after": ["y", "g", "_"],
+        }
+    ],
+    // Latex
+    "latex-workshop.view.pdf.viewer": "tab",
+    "latex-workshop.latex.autoBuild.run": "onSave"
+}
