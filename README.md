@@ -1,2 +1,2 @@
 # Configs
-Personal configs for code editors
+Personal configs for code editors and environments
