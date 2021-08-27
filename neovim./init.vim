@@ -1,4 +1,5 @@
 set nohlsearch
+set ignorecase
 set formatoptions-=cro
 
 " Paste until eol ignoring eol character
